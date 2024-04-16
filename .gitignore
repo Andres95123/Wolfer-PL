@@ -1,0 +1,17 @@
+# Ignorar archivos generados por el compilador de Java
+*.class
+
+# Ignorar archivos generados por IDEs de Java
+.idea/
+.vscode/
+
+# Ignorar archivos de compilación de Maven
+target/
+
+# Ignorar archivos de compilación de Gradle
+build/
+
+# Ignorar archivos de configuración de Visual Studio Code
+.vscode/
+bin/
+lib/
